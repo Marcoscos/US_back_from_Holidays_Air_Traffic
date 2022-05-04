@@ -1,4 +1,4 @@
-# US_back_from_Holidays_Air_Traffic
+# US_post_Xmas_Holidays_Air_Traffic
 
 This repo contains the project conducted for the course [Advanced Business Analytics](https://kurser.dtu.dk/course/2021-2022/42578?menulanguage=en). The repo contains the submitted notebooks datasets used. The highlights of the projects are the use of advanced visualizations, statistical tests, using APIs and JSON, and modelling with an explainable AI perspective in mind, using XGBoost with SHAP. The README contains an executive summary of the project, while the notebooks contain the code and the different analysis from which the insights were taken. For ease of use, download and check out the HTML files.
 
